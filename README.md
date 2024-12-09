@@ -2,8 +2,6 @@
 
 This project is the first test of my kowledge on Suervised Machine Learnng (Linear Regression).
 
-This is aimed to train the model to derive the most minimal error value between the predicted and true values of the test dataset- the model of which would be used in predicting the academic performance of prospective students.
+The aim is to train the model to minimize the error value between the predicted and actual values in the test dataset. This trained model will be utilized to predict the academic performance of prospective students.
 
-
-This result will help the school determine the viablity of having academic performers- based on the parameters provided to the model.
- # Student-Performance
+The results will assist the school in determining the viability of admitting academically strong performers, based on the parameters provided to the model.
