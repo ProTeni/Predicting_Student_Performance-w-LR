@@ -1,4 +1,4 @@
-![Alt Text] ('.\Images\pexels-pixabay-267885.jpg)
+![Alt Text]('.\Images\pexels-pixabay-267885.jpg)
 
 This project is the first test of my kowledge on Suervised Machine Learnng (Linear Regression).
 
