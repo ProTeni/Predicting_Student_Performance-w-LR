@@ -1,4 +1,4 @@
-![Alt Text](.\Images\pexels-pixabay-267885.jpg)
+![Alt Text](./Images/pexels-pixabay-267885.jpg)
 
 This project was the first test of my Supervised Machine learning (Linear Regression) knowledge.
 
